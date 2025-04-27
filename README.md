@@ -30,6 +30,14 @@ Focuses on:
 - Dimensionality reduction (e.g., PCA, t-SNE)
 - Clustering (e.g., KMeans, DBSCAN)
 - Visualization of cluster topics for insight generation
+  
+### `BT5153_Final_LLM.py`
+This script uses Google's Gemini 2.0 Flash model to analyze negative customer reviews and generate actionable business insights.
+Specifically, the script processes a set of user reviews clustered by common themes and asks the model to:
+- Summarize the main negative feedback trends.
+- Identify potential root causes for customer dissatisfaction.
+- Provide concise recommendations for improvement.
+The purpose is to automate customer feedback analysis, enabling businesses to quickly identify issues and prioritize actionable improvements.
 
 ---
 
